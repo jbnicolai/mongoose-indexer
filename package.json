@@ -1,6 +1,6 @@
 {
   "name": "mongoose-indexer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Command line interface to create mongo index from mongoose model",
   "main": "index.js",
   "scripts": {
