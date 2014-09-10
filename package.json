@@ -1,5 +1,5 @@
 {
-  "name": "mongoose-index",
+  "name": "mongoose-indexer",
   "version": "0.1.0",
   "description": "Command line to create mongo index from mongoose model",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/thenrikie/mongoose-index"
+    "url": "https://github.com/thenrikie/mongoose-indexer"
   },
   "keywords": [
     "mongoose",
@@ -18,13 +18,14 @@
   "author": "Henry Liu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thenrikie/mongoose-index/issues"
+    "url": "https://github.com/thenrikie/mongoose-indexer/issues"
   },
-  "homepage": "https://github.com/thenrikie/mongoose-index",
+  "homepage": "https://github.com/thenrikie/mongoose-indexer",
   "dependencies": {
     "mongoose": "~3.8.16",
     "yargs": "~1.3.1",
     "glob": "~4.0.5",
-    "async": "~0.9.0"
+    "async": "~0.9.0",
+    "chalk": "~0.5.1"
   }
 }

@@ -1,2 +1,2 @@
-mongoose-index
-==============
+mongoose-indexer
+==================
