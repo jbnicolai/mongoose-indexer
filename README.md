@@ -14,6 +14,10 @@ Usage
 ------------------
 
     mongoose-indexer -username [username] --password [password] --host [host] --port [port] [database] [files]
+    
+i.e.
+
+    mongoose-indexer -username user --password 1234 --host localhost test-db ./models/*
 
 Accepted Mongoose Model Format
 --------------------
